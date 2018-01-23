@@ -1,7 +1,7 @@
 # Laravel-Vue SPA 
 
 
-# Laravel 5 Boilerplate / Starter kit with Iview .
+# Laravel 5 Boilerplate / Starter kit with [Iview](https://www.iviewui.com/) .
 
 _Laravel Boilerplate_ provides a very flexible and extensible way of building your custom Laravel 5 applications with vue by Iview.
 
@@ -31,7 +31,7 @@ $ git clone https://github.com/AbdullahGhanem/laravel-spa-iview.git
 ```
 4. Change into the working directory
 ```
-$ cd laravel-boilerplate
+$ cd laravel-spa-iview
 ```
 5. Copy `.env.example` to `.env` and modify according to your environment
 ```
