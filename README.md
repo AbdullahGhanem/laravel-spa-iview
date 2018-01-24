@@ -47,7 +47,7 @@ $ php artisan key:generate
 ```
 8. An application jwt key can be generated with the command
 ```
-$ php artisan jwt:generate
+$ php artisan jwt:secret
 ```
 9. Execute following commands to install other dependencies
 ```
