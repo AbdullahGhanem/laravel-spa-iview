@@ -1,7 +1,7 @@
 {
-    "name": "cretueusebiu/laravel-vue-spa",
-    "description": "A Laravel-Vue SPA starter project template.",
-    "keywords": ["spa", "laravel", "vue"],
+    "name": "abdullahghanem/laravel-spa-iview",
+    "description": "Laravel 5 Boilerplate / Starter kit with Iview",
+    "keywords": ["spa", "laravel", "vue", "iview"],
     "license": "MIT",
     "type": "project",
     "require": {
